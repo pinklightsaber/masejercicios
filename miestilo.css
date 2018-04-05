@@ -1,0 +1,30 @@
+body{
+
+	margin:0px;
+	font-weight: 100;
+	
+	}
+	p{
+		color:#555555;
+		text-align: left;
+	}
+	h1{
+
+	font-family: 'Oswald', sans-serif;
+	}
+	#logo
+	{
+		height: 100px;
+	}
+	.extra-grande{
+		font-size: 20px;
+	}
+	ul.navbar{
+		background-image: url('imagenes/congruent_outline.png');
+		background-color: white;
+		height: 200px;
+		list-style-type: none;
+	}
+	li.navbar {
+		float:left; padding: 50px
+	}
